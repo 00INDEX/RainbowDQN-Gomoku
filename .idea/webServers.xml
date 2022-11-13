@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="05debd21-0db5-475e-88fb-49a94ed6952b" name="111公用服务器">
+        <fileTransfer rootFolder="/remote-home/szhang" accessType="SFTP" host="10.176.52.111" port="20165" sshConfigId="50308bc8-8212-4142-9adb-6d4770e326c8" sshConfig="szhang@10.176.52.111:20165 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

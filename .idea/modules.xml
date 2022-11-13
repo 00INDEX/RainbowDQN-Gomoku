@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RainbowDQN.iml" filepath="$PROJECT_DIR$/.idea/RainbowDQN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RainbowDQN-Client/.idea/RainbowDQN-Client.iml" filepath="$PROJECT_DIR$/../RainbowDQN-Client/.idea/RainbowDQN-Client.iml" />
+    </modules>
+  </component>
+</project>
